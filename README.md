@@ -64,6 +64,17 @@ flask run
 ```
 
 
+
+### Step 3: Start the frontend
+(You can start the frontend even before the backend is up!)
+From the `frontend` folder, run the following commands to start the client: 
+```
+npm install // only once to install dependencies
+npm start 
+```
+By default, the frontend will run on `localhost:3000`. Close the terminal if you wish to stop the frontend server. 
+
+
 ---
 
 #### Running Tests
